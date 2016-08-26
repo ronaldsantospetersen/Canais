@@ -195,13 +195,13 @@ http://192.99.148.73:8080/live/Bernardo/tFTxDTHrGo/40.ts
 http://192.99.148.73:8080/live/Bernardo/tFTxDTHrGo/43.ts
 
 #EXTINF:-1 tvg-logo="https://s19.postimg.org/asakn7s0j/VEVO_logo_red_RGB.png",Vevo
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.ts
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s19.postimg.org/asakn7s0j/VEVO_logo_red_RGB.png",Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.ts
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s19.postimg.org/asakn7s0j/VEVO_logo_red_RGB.png",Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.ts
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png",Disney XD
 http://192.99.148.73:8080/live/Bernardo/tFTxDTHrGo/85.ts
