@@ -132,13 +132,13 @@ http://192.99.148.73:8080/live/Antonio/Marcos/61.m3u8
 http://192.99.148.73:8080/live/Antonio/Marcos/58.m3u8
 
 #EXTINF:-1 tvg-id="EI Max" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png",Ei Maxx
-http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8
+http://192.99.148.73:8080/live/Antonio/Marcos/65.m3u8
 
 #EXTINF:-1 tvg-id="EI Max 2" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png",Ei Maxx 2
-http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8
+http://192.99.148.73:8080/live/Antonio/Marcos/66.m3u8
 
 #EXTINF:-1 tvg-id="Esporte Interativo [Brazil]"  tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png",Esporte Interativo
-http://ss-bsas.eiplus.com.br/live/smil:Evento1.smil/chunklist_b978000.m3u8
+http://192.99.148.73:8080/live/Antonio/Marcos/67.m3u8
 
 #EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="https://s19.postimg.org/jzmq9ti8j/combate.png",Combate
 http://192.99.148.73:8080/live/Antonio/Marcos/80.m3u8
