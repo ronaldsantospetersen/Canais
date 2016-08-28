@@ -280,12 +280,3 @@ http://192.99.148.73:8080/live/Maykon/Leonardo/70.m3u8
 
 #EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-logo="http://s20.postimg.org/4tk5jc13d/Globo_News.png",GloboNews
 http://192.99.148.73:8080/live/Maykon/Leonardo/68.m3u8
-
-#EXTINF:-1 tvg-id-"Playboy TV" tvg-logo="https://s19.postimg.org/yy5548xar/Playboy_TV_Logo.png",Playboy TV
-http://192.99.148.73:8080/live/Maykon/Leonardo/90.m3u8
-
-#EXTINF:-1 tvg-id-"Sexy Hot" tvg-logo="https://s19.postimg.org/ioez1cmmr/sexy_hot.png",Sexy Hot
-http://192.99.148.73:8080/live/Maykon/Leonardo/91.m3u8
-
-#EXTINF:-1 tvg-id-"Sextreme" tvg-logo="https://s19.postimg.org/4j95zjdlf/Sextreme.png",Sextreme
-http://192.99.148.73:8080/live/Maykon/Leonardo/92.m3u8
