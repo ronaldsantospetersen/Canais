@@ -12,7 +12,7 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/4.ts
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/5.ts
 
 #EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="https://s19.postimg.org/4mye21toz/sbt_logo1.png",SBT
-http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
+http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/3.ts
 
 #EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png",TV Cultura
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/1.ts
@@ -140,7 +140,7 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/66.ts
 #EXTINF:-1 tvg-id="Esporte Interativo [Brazil]"  tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png",Esporte Interativo
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/67.ts
 
-#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo"https://s19.postimg.org/jzmq9ti8j/combate.png",Combate
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="https://s19.postimg.org/jzmq9ti8j/combate.png",Combate
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/80.ts
 
 #EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere Clubes
@@ -176,19 +176,19 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/62.ts
 #EXTINF:-1 tvg-id-"BIS" tvg-logo="https://s19.postimg.org/wj8o62ro3/Canal_Bis.png",Bis
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/37.ts
 
-#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-logo"https://s19.postimg.org/mohizunpv/Multishow_logo.png",Multishow
+#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-logo="http://s20.postimg.org/5i26trekp/Multishow.png",Multishow
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/39.ts
 
 #EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/uyanjxuh5/MTV.png",MTV
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/38.ts
 
-#EXTINF:-1 tvg-id="Tlc" tvg-logo"https://s19.postimg.org/wn7302mj7/TLC_USA_logo.png",TLC
+#EXTINF:-1 tvg-id="Tlc" tvg-logo="http://s20.postimg.org/53dvxgbk9/TLC.png",TLC
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/44.ts
 
-#EXTINF:-1 tvg-id="Viva [Brazil]" tvg-logo"https://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png",Canal Viva
+#EXTINF:-1 tvg-id="Viva [Brazil]" tvg-logo="http://s20.postimg.org/vfs0ukfwp/Viva.png",Canal Viva
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/36.ts
 
-#EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-logo"https://s19.postimg.org/pmj37akr7/GNT_logo_roxo.png",GNT
+#EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-logo="https://s19.postimg.org/pmj37akr7/GNT_logo_roxo.png",GNT
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/40.ts
 
 #EXTINF:-1 tvg-id-"Fox Life" tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png",Fox Life
@@ -236,7 +236,7 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/45.ts
 #EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png",The History Channel
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/52.ts
 
-#EXTINF:-1 tvg-id="H2" tvg-logo="http://s20.postimg.org/xr0ncck95/History_2.jpg?noCache=1462387900",H2
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://s19.postimg.org/lx0hys043/History_2_logo_2011.png",H2
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/53.ts
 
 #EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-logo="http://s20.postimg.org/c7m083amh/Animal_Planet.png",Animal Planet
@@ -254,7 +254,7 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/49.ts
 #EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png",Discovery Science
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/54.ts
 
-#EXTINF:-1 tvg-id="Investigation Discovery",Discovery ID
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="http://s20.postimg.org/kcm6u6yrt/Investigacao_Discovery.png",Discovery ID
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/47.ts
 
 #EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png",Discovery Home & Health
@@ -263,8 +263,14 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/48.ts
 #EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-logo="http://s20.postimg.org/qd5lf4nt5/Discovery_Civilization.png",Discovery Civilization
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/50.ts
 
-#EXTINF:-1 tvg-id="E! Entertainment Television [Brazil]" tvg-logo"https://s19.postimg.org/3pwk6x7kj/E_logo.png",E!
+#EXTINF:-1 tvg-id="E! Entertainment Television [Brazil]" tvg-logo="https://s19.postimg.org/3pwk6x7kj/E_logo.png",E!
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/42.ts
+
+#EXTINF:-1 tvg-id="CNN International [Brazil]" tvg-logo="https://s19.postimg.org/qam0dwrrn/Cnn_svg.png",CNN International
+http://149.255.152.110:80/cnn/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nf1bmz9n1/abc_news.png" ,ABC News
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="http://s20.postimg.org/onemv080d/Record_News.png",Record News
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/69.ts
@@ -275,11 +281,11 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/70.ts
 #EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-logo="http://s20.postimg.org/4tk5jc13d/Globo_News.png",GloboNews
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/68.ts
 
-#EXTINF:-1 tvg-id-"Playboy TV" tvg-logo"https://s19.postimg.org/yy5548xar/Playboy_TV_Logo.png",Playboy TV
+#EXTINF:-1 tvg-id-"Playboy TV" tvg-logo="https://s19.postimg.org/yy5548xar/Playboy_TV_Logo.png",Playboy TV
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/90.ts
 
-#EXTINF:-1 tvg-id-"Sexy Hot" tvg-logo"https://s19.postimg.org/ioez1cmmr/sexy_hot.png",Sexy Hot
+#EXTINF:-1 tvg-id-"Sexy Hot" tvg-logo="https://s19.postimg.org/ioez1cmmr/sexy_hot.png",Sexy Hot
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/91.ts
 
-#EXTINF:-1 tvg-id-"Sextreme" tvg-logo"https://s19.postimg.org/4j95zjdlf/Sextreme.png",Sextreme
+#EXTINF:-1 tvg-id-"Sextreme" tvg-logo="https://s19.postimg.org/4j95zjdlf/Sextreme.png",Sextreme
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/92.ts
