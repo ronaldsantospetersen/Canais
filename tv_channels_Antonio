@@ -1,117 +1,117 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png",Globo SP
-http://192.99.148.73:8080/live/Antonio/Marcos/2.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/2.m3u8
 
 #EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png",Record
-http://192.99.148.73:8080/live/Antonio/Marcos/6.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/6.m3u8
 
 #EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s20.postimg.org/fkq5nz895/Redetv.png",Rede TV
-http://192.99.148.73:8080/live/Antonio/Marcos/4.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/4.m3u8
 
 #EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s20.postimg.org/uuypfqp3d/Band_SP.png",Band
-http://192.99.148.73:8080/live/Antonio/Marcos/5.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/5.m3u8
 
 #EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="https://s19.postimg.org/4mye21toz/sbt_logo1.png",SBT
-http://192.99.148.73:8080/live/Antonio/Marcos/3.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/3.m3u8
 
 #EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png",TV Cultura
-http://192.99.148.73:8080/live/Antonio/Marcos/1.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/1.m3u8
 
 #EXTINF:-1 tvg-id="Canal Futura [Brazil]" tvg-logo="http://s20.postimg.org/5gj28uxzd/Futura.png",Futura
-http://192.99.148.73:8080/live/Antonio/Marcos/7.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/7.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-logo="http://s20.postimg.org/dgezedle1/Telecine_Premium.png",Telecine Premium
-http://192.99.148.73:8080/live/Antonio/Marcos/8.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/8.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-logo="http://s20.postimg.org/bw9nfzczt/Telecine_Action.png",Telecine Action
-http://192.99.148.73:8080/live/Antonio/Marcos/9.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/9.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-logo="http://s20.postimg.org/aayz1ws5l/Telecine_Touch.png",Telecine Touch
-http://192.99.148.73:8080/live/Antonio/Marcos/12.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/12.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-logo="http://s20.postimg.org/ddv3rjhqh/Telecine_Fun.png",Telecine Fun
-http://192.99.148.73:8080/live/Antonio/Marcos/10.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/10.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-logo="http://s20.postimg.org/lxehpaq2x/Telecine_Pipoca.png",Telecine Pipoca
-http://192.99.148.73:8080/live/Antonio/Marcos/11.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/11.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s20.postimg.org/bxjl9eetl/Telecine_Cult.png",Telecine Cult
-http://192.99.148.73:8080/live/Antonio/Marcos/13.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/13.m3u8
 
 #EXTINF:-1 tvg-id="HBO [Brazil]" tvg-logo="http://s20.postimg.org/5a5d5roul/HBO.png",HBO
-http://192.99.148.73:8080/live/Antonio/Marcos/14.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/14.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-logo="http://s20.postimg.org/t2j9v1g95/HBO2.png",HBO 2
-http://192.99.148.73:8080/live/Antonio/Marcos/15.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/15.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-logo="http://s20.postimg.org/b3k0k2pvt/HBOPlus.png",HBO Plus
-http://192.99.148.73:8080/live/Antonio/Marcos/18.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/18.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-logo="http://s20.postimg.org/6cgxafmh5/HBO_Signature.jpg?noCache=1462385385",HBO Signature
-http://192.99.148.73:8080/live/Antonio/Marcos/16.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/16.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family [Brazil]"  tvg-logo="http://s20.postimg.org/9ypyep3ex/HBOFamily.png",HBO Family
-http://192.99.148.73:8080/live/Antonio/Marcos/17.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/17.m3u8
 
 #EXTINF:-1 tvg-id="Max up HD [Brazil]" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png",Max Up
-http://192.99.148.73:8080/live/Antonio/Marcos/25.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/25.m3u8
 
 #EXTINF:-1 tvg-id="Max Prime [Brazil]"tvg-logo="http://s20.postimage.org/6o1letdhl/MAXPrime.png",Max Prime
-http://192.99.148.73:8080/live/Antonio/Marcos/24.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/24.m3u8
 
 #EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://s20.postimg.org/ymvr5of49/Max_HD.png",Max
-http://192.99.148.73:8080/live/Antonio/Marcos/23.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/23.m3u8
 
 #EXTINF:-1 tvg-id="Universal [Brazil]" tvg-logo="http://s20.postimg.org/58m8kv895/Universal_Channel.png",Universal Channel
-http://192.99.148.73:8080/live/Antonio/Marcos/22.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/22.m3u8
 
 #EXTINF:-1 tvg-id="TNT [Brazil]" tvg-logo="http://s20.postimg.org/5u6m38dxp/TNT.png",TNT
-http://192.99.148.73:8080/live/Antonio/Marcos/30.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/30.m3u8
 
 #EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-logo="http://foromedios.com/uploads/monthly_2016_04/large.TCM.png.e267ba39b313fa53adc85da94d4a901a.png",TCM
-http://192.99.148.73:8080/live/Antonio/Marcos/35.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/35.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s20.postimg.org/8vsszg1op/Studio_Universal.png",Studio Universal
-http://192.99.148.73:8080/live/Antonio/Marcos/32.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/32.m3u8
 
 #EXTINF:-1 tvg-id="TBS [Brazil]" tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png",TBS
-http://192.99.148.73:8080/live/Antonio/Marcos/33.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/33.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-logo="http://s20.postimg.org/pnrwnf62x/Warner.png",Warner Channel
-http://192.99.148.73:8080/live/Antonio/Marcos/26.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/26.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://s20.postimg.org/d1zv9jx59/Paramount_Channel.png",Paramount
-http://192.99.148.73:8080/live/Antonio/Marcos/34.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/34.m3u8
 
 #EXTINF:-1 tvg-id="Fox [Brazil]" tvg-logo="http://s20.postimg.org/pvk4xo6fd/Fox.png",FOX
-http://192.99.148.73:8080/live/Antonio/Marcos/20.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/20.m3u8
 
 #EXTINF:-1 tvg-id="SPACE [Brazil]" tvg-logo="http://s20.postimg.org/rvnplsjnt/Space.png",Space
-http://192.99.148.73:8080/live/Antonio/Marcos/21.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/21.m3u8
 
 #EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-logo="http://s20.postimg.org/3qn042zd5/Sony_Spin.png",Sony
-http://192.99.148.73:8080/live/Antonio/Marcos/28.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/28.m3u8
 
 #EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png",Megapix
-http://192.99.148.73:8080/live/Antonio/Marcos/19.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/19.m3u8
 
 #EXTINF:-1 tvg-id="FX [Brazil]" tvg-logo="http://s20.postimg.org/pcf1oef0p/image.png",FX
-http://192.99.148.73:8080/live/Antonio/Marcos/27.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/27.m3u8
 
 #EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s20.postimg.org/yfpzl8495/AXN.png" ,AXN
-http://192.99.148.73:8080/live/Antonio/Marcos/29.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/29.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-logo="http://s20.postimg.org/c954szr7t/Cinemax.png",Cinemax
-http://192.99.148.73:8080/live/Antonio/Marcos/31.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/31.m3u8
 
 #EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png",SporTV
-http://192.99.148.73:8080/live/Antonio/Marcos/55.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/55.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png",SporTV 2
-http://192.99.148.73:8080/live/Antonio/Marcos/56.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/56.m3u8
 
 #EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png",SporTV 3
-http://192.99.148.73:8080/live/Antonio/Marcos/57.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/57.m3u8
 
 #EXTINF:-1,Sportv 1 HD Portugal-Teste
 http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/205.ts
@@ -132,85 +132,85 @@ http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/203.ts
 http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/81.ts
 
 #EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png",Fox Sports
-http://192.99.148.73:8080/live/Antonio/Marcos/63.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/63.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png",Fox Sports 2
-http://192.99.148.73:8080/live/Antonio/Marcos/64.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/64.m3u8
 
 #EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png",ESPN
-http://192.99.148.73:8080/live/Antonio/Marcos/59.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/59.m3u8
 
 #EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png",ESPN +
-http://192.99.148.73:8080/live/Antonio/Marcos/60.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/60.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png",ESPN Brasil
-http://192.99.148.73:8080/live/Antonio/Marcos/61.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/61.m3u8
 
 #EXTINF:-1 tvg-id="Band Esportes [Brazil]" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png",Band Sports
-http://192.99.148.73:8080/live/Antonio/Marcos/58.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/58.m3u8
 
 #EXTINF:-1 tvg-id="EI Max" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png",Ei Maxx
-http://192.99.148.73:8080/live/Antonio/Marcos/65.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/65.m3u8
 
 #EXTINF:-1 tvg-id="EI Max 2" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png",Ei Maxx 2
-http://192.99.148.73:8080/live/Antonio/Marcos/66.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/66.m3u8
 
 #EXTINF:-1 tvg-id="Esporte Interativo [Brazil]"  tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png",Esporte Interativo
-http://192.99.148.73:8080/live/Antonio/Marcos/67.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/67.m3u8
 
 #EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="https://s19.postimg.org/jzmq9ti8j/combate.png",Combate
-http://192.99.148.73:8080/live/Antonio/Marcos/80.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/80.m3u8
 
 #EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere Clubes
-http://192.99.148.73:8080/live/Antonio/Marcos/71.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/71.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 2
-http://192.99.148.73:8080/live/Antonio/Marcos/72.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/72.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 3
-http://192.99.148.73:8080/live/Antonio/Marcos/73.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/73.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 4
-http://192.99.148.73:8080/live/Antonio/Marcos/74.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/74.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 5
-http://192.99.148.73:8080/live/Antonio/Marcos/75.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/75.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 6
-http://192.99.148.73:8080/live/Antonio/Marcos/76.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/76.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 7
-http://192.99.148.73:8080/live/Antonio/Marcos/77.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/77.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 8
-http://192.99.148.73:8080/live/Antonio/Marcos/78.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/78.m3u8
 
 #EXTINF:-1 tvg-id="Premiere" tvg-logo="http://s20.postimg.org/z2g7q6ft9/Premiere_FC.png",Premiere 9
-http://192.99.148.73:8080/live/Antonio/Marcos/79.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/79.m3u8
 
 #EXTINF:-1 tvg-id="Canal Off [Brazil]" tvg-logo="http://s20.postimg.org/682ui6f7x/Canal_Off.png",OFF
-http://192.99.148.73:8080/live/Antonio/Marcos/62.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/62.m3u8
 
 #EXTINF:-1 tvg-id-"BIS" tvg-logo="https://s19.postimg.org/wj8o62ro3/Canal_Bis.png",Bis
-http://192.99.148.73:8080/live/Antonio/Marcos/37.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/37.m3u8
 
 #EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-logo="http://s20.postimg.org/5i26trekp/Multishow.png",Multishow
-http://192.99.148.73:8080/live/Antonio/Marcos/39.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/39.m3u8
 
 #EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/uyanjxuh5/MTV.png",MTV
-http://192.99.148.73:8080/live/Antonio/Marcos/38.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/38.m3u8
 
 #EXTINF:-1 tvg-id="Tlc" tvg-logo="http://s20.postimg.org/53dvxgbk9/TLC.png",TLC
-http://192.99.148.73:8080/live/Antonio/Marcos/44.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/44.m3u8
 
 #EXTINF:-1 tvg-id="Viva [Brazil]" tvg-logo="http://s20.postimg.org/vfs0ukfwp/Viva.png",Canal Viva
-http://192.99.148.73:8080/live/Antonio/Marcos/36.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/36.m3u8
 
 #EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-logo="https://s19.postimg.org/pmj37akr7/GNT_logo_roxo.png",GNT
-http://192.99.148.73:8080/live/Antonio/Marcos/40.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/40.m3u8
 
 #EXTINF:-1 tvg-id-"Fox Life" tvg-logo="http://s20.postimg.org/wnak0ivex/Fox_Life.png",Fox Life
-http://192.99.148.73:8080/live/Antonio/Marcos/43.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://s19.postimg.org/asakn7s0j/VEVO_logo_red_RGB.png",Vevo
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
@@ -222,67 +222,67 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png",Disney XD
-http://192.99.148.73:8080/live/Antonio/Marcos/85.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/85.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png",Disney Júnior
-http://192.99.148.73:8080/live/Antonio/Marcos/84.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/84.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png",Disney
-http://192.99.148.73:8080/live/Antonio/Marcos/86.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/86.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" ,Nick Jr.
-http://192.99.148.73:8080/live/Antonio/Marcos/87.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/87.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png",Nickelodeon
-http://192.99.148.73:8080/live/Antonio/Marcos/83.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/83.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png",Discovery Kids
-http://192.99.148.73:8080/live/Antonio/Marcos/88.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/88.m3u8
 
 #EXTINF:-1 tvg-id-"Gloob" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png",Gloob
-http://192.99.148.73:8080/live/Antonio/Marcos/81.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/81.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-logo="http://s20.postimg.org/9cdieyw09/Bloomberg.png",Boomerang
-http://192.99.148.73:8080/live/Antonio/Marcos/89.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/89.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network [Brazil]" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png",Cartoon Network
-http://192.99.148.73:8080/live/Antonio/Marcos/82.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/82.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png",National Geographic
-http://192.99.148.73:8080/live/Antonio/Marcos/45.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/45.m3u8
 
 #EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png",The History Channel
-http://192.99.148.73:8080/live/Antonio/Marcos/52.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/52.m3u8
 
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://s19.postimg.org/lx0hys043/History_2_logo_2011.png",H2
-http://192.99.148.73:8080/live/Antonio/Marcos/53.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/53.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-logo="http://s20.postimg.org/c7m083amh/Animal_Planet.png",Animal Planet
-http://192.99.148.73:8080/live/Antonio/Marcos/51.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/51.m3u8
 
 #EXTINF:-1 tvg-id="A E [Brazil]" tvg-logo="http://s20.postimg.org/8zhiv1oct/image.png",A&E
-http://192.99.148.73:8080/live/Antonio/Marcos/41.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/41.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png",Discovery Channel
-http://192.99.148.73:8080/live/Antonio/Marcos/46.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/46.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-logo="http://s20.postimg.org/6nnb2ofwp/Discovery_Turbo.png",Discovery Turbo
-http://192.99.148.73:8080/live/Antonio/Marcos/49.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/49.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png",Discovery Science
-http://192.99.148.73:8080/live/Antonio/Marcos/54.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/54.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="http://s20.postimg.org/kcm6u6yrt/Investigacao_Discovery.png",Discovery ID
-http://192.99.148.73:8080/live/Antonio/Marcos/47.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/47.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png",Discovery Home & Health
-http://192.99.148.73:8080/live/Antonio/Marcos/48.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/48.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-logo="http://s20.postimg.org/qd5lf4nt5/Discovery_Civilization.png",Discovery Civilization
-http://192.99.148.73:8080/live/Antonio/Marcos/50.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/50.m3u8
 
 #EXTINF:-1 tvg-id="E! Entertainment Television [Brazil]" tvg-logo="https://s19.postimg.org/3pwk6x7kj/E_logo.png",E!
-http://192.99.148.73:8080/live/Antonio/Marcos/42.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/42.m3u8
 
 #EXTINF:-1 tvg-id="CNN International [Brazil]",CNN International
 http://149.255.152.110:80/cnn/index.m3u8
@@ -291,19 +291,19 @@ http://149.255.152.110:80/cnn/index.m3u8
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="http://s20.postimg.org/onemv080d/Record_News.png",Record News
-http://192.99.148.73:8080/live/Antonio/Marcos/69.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/69.m3u8
 
 #EXTINF:-1 tvg-id="Band News [Brazil]" tvg-logo="http://s20.postimg.org/xhj3dlkp9/Band_News_TV_logo_2010_svg.png" ,Band News
-http://192.99.148.73:8080/live/Antonio/Marcos/70.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/70.m3u8
 
 #EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-logo="http://s20.postimg.org/4tk5jc13d/Globo_News.png",GloboNews
-http://192.99.148.73:8080/live/Antonio/Marcos/68.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/68.m3u8
 
 #EXTINF:-1 tvg-id-"Playboy TV" tvg-logo="https://s19.postimg.org/yy5548xar/Playboy_TV_Logo.png",Playboy TV
-http://192.99.148.73:8080/live/Antonio/Marcos/90.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/90.m3u8
 
 #EXTINF:-1 tvg-id-"Sexy Hot" tvg-logo="https://s19.postimg.org/ioez1cmmr/sexy_hot.png",Sexy Hot
-http://192.99.148.73:8080/live/Antonio/Marcos/91.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/91.m3u8
 
 #EXTINF:-1 tvg-id-"Sextreme" tvg-logo="https://s19.postimg.org/4j95zjdlf/Sextreme.png",Sextreme
-http://192.99.148.73:8080/live/Antonio/Marcos/92.m3u8
+http://192.99.148.73:8080/live/Antonio/Vianamarcos/92.m3u8
