@@ -12,7 +12,7 @@ http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/4.ts
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/5.ts
 
 #EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="https://s19.postimg.org/4mye21toz/sbt_logo1.png",SBT
-http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/3.ts
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png",TV Cultura
 http://192.99.148.73:8080/live/Elcenirsouza/RpX1BpO0bN/1.ts
