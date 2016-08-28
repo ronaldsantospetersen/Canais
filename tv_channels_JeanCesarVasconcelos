@@ -113,6 +113,24 @@ http://192.99.148.73:8080/live/jeancesar/20AJQqnUmu/56.ts
 #EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png",SporTV 3
 http://192.99.148.73:8080/live/jeancesar/20AJQqnUmu/57.ts
 
+#EXTINF:-1,Sportv 1 HD Portugal-Teste
+http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/205.ts
+
+#EXTINF:-1,Sport TV 1 Portugal-Teste
+http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/79.ts
+
+#EXTINF:-1,Sportv 2 HD Portugal-Teste
+http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/204.ts
+
+#EXTINF:-1,Sport TV 2 Portugal-Teste
+http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/80.ts
+
+#EXTINF:-1,Sportv 3 HD Portugal-Teste
+http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/203.ts
+
+#EXTINF:-1,Sport TV 3 Portugal-Teste
+http://portal1.digiportal.xyz:2030/live/OoD42YC8Lt/kzbN8TWQKg/81.ts
+
 #EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png",Fox Sports
 http://192.99.148.73:8080/live/jeancesar/20AJQqnUmu/63.ts
 
